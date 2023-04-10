@@ -6,7 +6,7 @@
 
 * Список для покупок та нотатки - це мобільний застосунок створений у Android Studio(Kotlin);
 * Монетизація - реклама і внутрішні покупки
-* Архітектура - [MVVM(Model-View-ViewModel)](https://uk.wikipedia.org/wiki/Model-View-ViewModel);
+* Архітектура - MVVM(Model-View-ViewModel);
 * Database - SQLite(Room persistance library).
 
 <p align="center">
