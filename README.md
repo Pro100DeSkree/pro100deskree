@@ -5,7 +5,7 @@
 </p>
 
 * Список для покупок та нотатки - це мобільний застосунок створений у Android Studio(Kotlin);
-* Монетизація - реклама і внутрішні покупки
+* Монетизація - реклама і внутрішні покупки;
 * Архітектура - MVVM(Model-View-ViewModel);
 * Database - SQLite(Room persistance library).
 
