@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/BdO6CaMbu4NKNUexroRXximZrwtXKKDWyjhji7_jtKmyhUPEQ56yMtGjwflsQ_pZKQ=w2560-h1440" width="150" title="Список для покупок та нотатки">&nbsp;<img src="https://play-lh.googleusercontent.com/5g2CuoxKmoBGXcxBoBX7cVToupEQB_vjCO_yv-clNsaXzOqfKDPBCzMeYhz0ySAzco8u=w2560-h1440" width="150" title="Список для покупок та нотатки">&nbsp;<img src="https://play-lh.googleusercontent.com/W4MZFn7KRylzNPC2cbF6qPj2wF7FuZx7PvaNCimzgHvGkmvgBJpeqxpX7kYfdcL5b5s=w2560-h1440" width="150" title="Список для покупок та нотатки">&nbsp;<img src="https://play-lh.googleusercontent.com/13IaHn0t3ZwJVc81bXWRvK-PLjScgc_nzTQQfqMZpNbiaaVrrQVk2rNyhZl9Hr7kGw=w2560-h1440" width="150" title="Список для покупок та нотатки">&nbsp;<img src="https://play-lh.googleusercontent.com/re7q5UbZ3fht-xtedwIgppyBYl6kW1hUuDNs7RR3cln2K-7cX6LUZ6zpvPhLfgMByRqA=w2560-h1440" width="150" title="Список для покупок та нотатки">&nbsp;<img src="https://play-lh.googleusercontent.com/WEdZERdu2QHU6b17dlpZAQ7VkwDIrl0eY199KcxTE1qbiyD1IHJAfahLHUKuSROeAR0=w2560-h1440" width="150" title="Список для покупок та нотатки" >&nbsp;</p>
 
-#####[Це мій перший проект.<br>Застосунок створювався за курсом. Після проходження курсу я багато чого змінив/додав в застосунку(-ок)]
+####[Це мій перший проект.<br>Застосунок створювався за курсом. Після проходження курсу я багато чого змінив/додав в застосунку(-ок)]
 
 
 ## Дякую що завітали!
