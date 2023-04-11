@@ -1,4 +1,4 @@
-<a href="" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:deskree4@gmail.com"><img src="https://img.shields.io/badge/Email-DeSkree-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white">
+<a href="" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:deskreeua@gmail.com"><img src="https://img.shields.io/badge/Email-DeSkree-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white">
 
 # [Список для покупок та нотатки](https://play.google.com/store/apps/details?id=com.deskree.shoppinglist)
 <p align="left">  <a href="https://play.google.com/store/apps/details?id=com.deskree.shoppinglist" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
@@ -20,6 +20,6 @@
 
 # Контактна інформація:
 
-- Email: DeSkree4@gmail.com
+- Email: deskreeua@gmail.com
 - Telegram: [DeSkree](https://t.me/DeSkree?fbclid=PAAaafKbeNSK-MSOHDwfAzlKyzGAT3L-cFuzY1S94qjXJflL4408ptMmhlCbk)
 - Instagram: [deskree.23_12](https://www.instagram.com/deskree.23_12/)
