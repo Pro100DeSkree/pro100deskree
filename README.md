@@ -20,6 +20,6 @@
 
 # Контактна інформація:
 
-- Email: deskreeua@gmail.com
+- Email: DeSkreeUA@gmail.com
 - Telegram: [DeSkree](https://t.me/DeSkree?fbclid=PAAaafKbeNSK-MSOHDwfAzlKyzGAT3L-cFuzY1S94qjXJflL4408ptMmhlCbk)
 - Instagram: [deskree.23_12](https://www.instagram.com/deskree.23_12/)
