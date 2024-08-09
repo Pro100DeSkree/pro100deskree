@@ -10,7 +10,7 @@
     <a href="https://play.google.com/store/apps/details?id=com.deskree.shoppinglist">
         <img src="./img/google_play.svg" width="170" > 
     </a>
-    <a href="https://github.com/Pro100DeSkree/ShoppingListOLD">
+    <a href="https://github.com/Pro100DeSkree/ShoppingList/tree/shoppinglist-old">
         <img src="./img/github.svg" alt="GitHub" width="165">
   </a>
 </p>
